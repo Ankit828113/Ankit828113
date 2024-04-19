@@ -1,4 +1,4 @@
-🌱 I’m currently learning MERN Stack
+![banner_img2](https://github.com/Ankit828113/Ankit828113/assets/128982687/5f9caa2a-ea63-4902-bf0d-2dc661006eb8)🌱 I’m currently learning MERN Stack
 
 💬 Ask me about Fullstack Development
 
