@@ -1,6 +1,5 @@
 <div>
-    <img width=”200" height=”200" src="![image](https://github.com/Ankit828113/Ankit828113/assets/128982687/94b59ac9-18d8-418d-89b9-175fd4534a5d)
-"/>
+    <img width=”200" height=”200" src="https://github.com/Ankit828113/Ankit828113/blob/main/github.jpeg?raw=true"/>
 </div>
 
 
