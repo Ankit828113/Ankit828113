@@ -1,3 +1,9 @@
+<div>
+    <img width=”200" height=”200" src="![image](https://github.com/Ankit828113/Ankit828113/assets/128982687/94b59ac9-18d8-418d-89b9-175fd4534a5d)
+"/>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
